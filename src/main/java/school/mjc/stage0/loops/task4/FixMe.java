@@ -7,9 +7,10 @@ public class FixMe {
                 System.out.println(i);
             } else if (i == 7) {
                 System.out.println("last");
+                System.out.println("will i be printed");
                 break;
-                System.out.println("will I be printed?");
             }
         }
     }
 }
+
